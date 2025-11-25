@@ -12,7 +12,6 @@
   "app": {
     "windows": [
       {
-        "title": "",
         "width": 1025,
         "height": 650,
         "center": true,
